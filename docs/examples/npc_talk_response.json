@@ -1,0 +1,16 @@
+{
+  "reply_type": "npc_talk",
+  "conversation_id": "smoke-c1",
+  "event_id": "c8d9ed2e-4b59-4822-ab96-22b48332a9b3",
+  "sequence_number": 1,
+  "actor_talk": {
+    "speaker": "Hadvar",
+    "speaker_ref_id": 180127,
+    "line_to_speak": "Принято. Ты сказал: Hadvar, status report.",
+    "is_narration": false,
+    "voice_file": "",
+    "line_duration": 0.0,
+    "actions": [],
+    "topic_info_file": 0
+  }
+}
